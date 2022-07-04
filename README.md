@@ -11,7 +11,7 @@
 - 🌸 Fun Facts: Books,Music and Games.
 ---
 <h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/%7mucahitAgdin%7D/count.svg" alt="mucahitAgdin :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mucahitAgdin}/count.svg" alt="mucahitAgdin :: Visitor's Count" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mucahitAgdin&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
 
