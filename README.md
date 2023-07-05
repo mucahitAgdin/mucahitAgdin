@@ -3,8 +3,7 @@
 ### I'm a software engineer 
 
 --- 
-- 👩🏻‍💻 I’m currently working on our telegram bot project
-- 🌱 I’m currently learning java, python
+- 🌱 I’m currently learning Devops, C
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mucahit-agdin-229675203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mucahitagdin-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: Software Engineer
 - 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
