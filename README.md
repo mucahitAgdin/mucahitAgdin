@@ -1,43 +1,43 @@
-<h1 align="center">Hey, I'm Mücahit 👋</h1>
+<h1 align="center">Hi, I'm Mücahit</h1>
 
 <p align="center">
-  <i>Creative mind in a software world. Building clean interfaces, smart tools, and functional experiences.</i>
+  I'm a software developer focused on building functional and clean applications.
 </p>
 
 ---
 
-### 🧭 About Me
+### 👨‍💻 About Me
 
-I’m a software developer who blends logic with creativity.  
-Focused on desktop and web development with a passion for clean architecture and intuitive design.
-
-- 🧠 Currently building modular desktop tools with **Electron.js**
-- 🎯 Interested in UI/UX, system control apps, and automation
-- ✨ I care about structure, clarity, and user experience
+- 💻 I'm interested in desktop and web applications
+- 🛠️ Currently working with **Electron.js**, **JavaScript**, and **Node.js**
+- 🧩 I like creating modular, structured, and maintainable codebases
+- 🔍 Exploring topics like system-level controls, network tools, and UI development
+- 📍 Based in Turkey
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </p>
 
 ---
 
-### 🕊 Philosophy
+### 🌱 What I'm Focusing On
 
-> *Less noise, more clarity.*  
-> *Let the code speak, let the design guide.*  
-> *Build with intention.*
+- Building a Wake-on-LAN based desktop app using Electron
+- Improving my UI/UX skills with real-world desktop projects
+- Writing cleaner, reusable and well-commented code for future collaboration
 
 ---
 
-### 📬 Connect
+### 📫 Contact
 
 <p>
   <a href="https://linkedin.com/in/mucahitagdin">
@@ -49,5 +49,5 @@ Focused on desktop and web development with a passion for clean architecture and
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=Visitors&color=grey&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </p>
