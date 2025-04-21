@@ -1,23 +1,53 @@
-### Hi there, I'm Mücahit! 👋
+<h1 align="center">Hey, I'm Mücahit 👋</h1>
 
-### I'm a software engineer 
+<p align="center">
+  <i>Creative mind in a software world. Building clean interfaces, smart tools, and functional experiences.</i>
+</p>
 
---- 
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/mucahit-agdin-229675203/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mucahitagdin-blue?style=flat&logo=linkedin"></a>
-- 😄 Pronouns: Software Engineer
-- 💪🏼 Future Goals: Exploring new technologies and developing software solutions. - Never stop creating new ideas.
-- 🌸 Fun Facts: Books,Music and Games.
 ---
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{mucahitAgdin}/count.svg" alt="mucahitAgdin :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mucahitAgdin&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" /></p>
+### 🧭 About Me
 
-<h4 align="center">Top langs 🔮</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucahitAgdin&layout=compact" alt="mucahitAgdin :: Top Langs" /></p>
+I’m a software developer who blends logic with creativity.  
+Focused on desktop and web development with a passion for clean architecture and intuitive design.
 
+- 🧠 Currently building modular desktop tools with **Electron.js**
+- 🎯 Interested in UI/UX, system control apps, and automation
+- ✨ I care about structure, clarity, and user experience
 
- 
-  </tbody>
-</table>
+---
+
+### 🔧 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+</p>
+
+---
+
+### 🕊 Philosophy
+
+> *Less noise, more clarity.*  
+> *Let the code speak, let the design guide.*  
+> *Build with intention.*
+
+---
+
+### 📬 Connect
+
+<p>
+  <a href="https://linkedin.com/in/mucahitagdin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mucahitAgdin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=Visitors&color=grey&style=flat-square" alt="profile views" />
+</p>
