@@ -20,9 +20,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Electron-2C2E3B?style=flat&logo=electron&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dotnet.svg" alt="ASP.NET" width="20" height="20"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </p>
