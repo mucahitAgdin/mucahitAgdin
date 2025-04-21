@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?logo=.net&logoColor=white" alt="ASP.NET MVC"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
 </p>
 
 ---
