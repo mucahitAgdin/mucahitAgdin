@@ -39,7 +39,7 @@
 ### 📫 Contact
 
 <p>
-  <a href="https://linkedin.com/in/mucahitagdin">
+  <a href="[https://linkedin.com/in/mucahitagdin](https://www.linkedin.com/in/mucahit-agdin/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mucahitAgdin">
