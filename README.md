@@ -1,81 +1,99 @@
 <div align="center">
 
-# Hi, I'm Mücahit
+# Mücahit Agdin
 
-I build practical software tools with a focus on clean structure, usability, and real-world problem solving.
+<p>
+  Software developer focused on practical tools, clean structure, and real-world workflows.
+</p>
 
-`software developer` · `automation` · `desktop apps` · `web apps` · `ai evaluation`
+<p>
+  <img src="https://img.shields.io/badge/software-development-6B5B95?style=flat-square" />
+  <img src="https://img.shields.io/badge/automation-89B0AE?style=flat-square" />
+  <img src="https://img.shields.io/badge/desktop-apps-E6A4B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/ai-evaluation-F4A261?style=flat-square" />
+</p>
 
 </div>
 
 ---
 
-<pre>
-mucahitAgdin
-├─ interested in     desktop apps, web apps, automation tools
-├─ working with      Python, C#, ASP.NET Core MVC, FastAPI, Electron
-├─ currently into    AI agent evaluation and practical software workflows
-└─ based in          Türkiye
-</pre>
+## Profile
+
+I am a Computer Engineering graduate based in Türkiye.
+
+I like building software that has a clear purpose, works reliably, and stays maintainable over time. My recent work includes desktop applications, web-based systems, automation tools, AI evaluation workflows, and internal factory IT solutions.
+
+I care about simple interfaces, understandable code, and practical problem solving.
 
 ---
 
-## About
+## Current Focus
 
-I'm a Computer Engineering graduate who enjoys building functional and maintainable applications.
-
-Most of my recent work is around practical tools, internal systems, automation, and evaluation workflows. I like projects that are useful, understandable, and easy to improve over time.
-
-Outside of coding, I enjoy mathematics, chess, and writing fictional stories.
+<table>
+  <tr>
+    <td><b>Software Development</b></td>
+    <td>Building desktop and web applications with clean, maintainable structure.</td>
+  </tr>
+  <tr>
+    <td><b>Automation</b></td>
+    <td>Creating tools that reduce repetitive work and improve operational workflows.</td>
+  </tr>
+  <tr>
+    <td><b>AI Evaluation</b></td>
+    <td>Working with prompt quality, coding task review, model behavior, and evaluation workflows.</td>
+  </tr>
+  <tr>
+    <td><b>Systems Thinking</b></td>
+    <td>Designing practical solutions for real use cases, especially internal tools and support systems.</td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-22272e?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/C%23-22272e?style=flat&logo=csharp" />
-  <img src="https://img.shields.io/badge/C++-22272e?style=flat&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-22272e?style=flat&logo=dotnet" />
-  <img src="https://img.shields.io/badge/FastAPI-22272e?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Electron-22272e?style=flat&logo=electron" />
-  <img src="https://img.shields.io/badge/Node.js-22272e?style=flat&logo=nodedotjs" />
-  <img src="https://img.shields.io/badge/Docker-22272e?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/Python-2B2D42?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-6B5B95?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-355070?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-4A4E69?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-457B9D?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-3D405B?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-52796F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-264653?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-## Projects
+## Selected Work
 
-### UpDown
-
-A desktop application for discovering, managing, and remotely controlling devices over a local network.
-
-### Inventory Management System
-
-A local inventory and stock tracking system designed for a factory environment, with barcode-based product tracking.
-
-### Ticket Automation System
-
-A desktop application for recording, tracking, and managing IT support requests.
-
----
-
-## Contact
-
-<p>
-  <a href="https://linkedin.com/in/mucahit-agdin/">
-    <img src="https://img.shields.io/badge/LinkedIn-22272e?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mucahitAgdin">
-    <img src="https://img.shields.io/badge/GitHub-22272e?style=flat&logo=github" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <b>UpDown</b>
+      <br><br>
+      Desktop application for discovering, managing, and remotely controlling devices over a local network.
+    </td>
+    <td width="33%">
+      <b>Inventory Management System</b>
+      <br><br>
+      Local stock tracking system designed for a factory environment with barcode-based product tracking.
+    </td>
+    <td width="33%">
+      <b>Ticket Automation System</b>
+      <br><br>
+      Desktop application for recording, tracking, and managing IT support requests.
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+## Working Style
 
-<img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=profile%20views&color=22272e&style=flat" />
-
-</div>
+```text
+clear purpose
+clean structure
+small improvements
+real use cases
+maintainable code
