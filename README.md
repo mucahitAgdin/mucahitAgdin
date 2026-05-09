@@ -1,52 +1,81 @@
-<h1 align="center">Hi, I'm Mücahit</h1>
+<div align="center">
 
-<p align="center">
-  I'm a software developer focused on building functional and clean applications.
-</p>
+# Hi, I'm Mücahit
 
----
+I build practical software tools with a focus on clean structure, usability, and real-world problem solving.
 
-### 👨‍💻 About Me
+`software developer` · `automation` · `desktop apps` · `web apps` · `ai evaluation`
 
-- 💻 I'm interested in desktop and web applications
-- 🛠️ Currently working with **Electron.js**, **JavaScript**, and **Node.js**
-- 🧩 I like creating modular, structured, and maintainable codebases
-- 🔍 Exploring topics like system-level controls, network tools, and UI development
-- 📍 Based in Turkey
+</div>
 
 ---
 
-### 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?logo=.net&logoColor=white" alt="ASP.NET MVC"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/>
-</p>
+<pre>
+mucahitAgdin
+├─ interested in     desktop apps, web apps, automation tools
+├─ working with      Python, C#, ASP.NET Core MVC, FastAPI, Electron
+├─ currently into    AI agent evaluation and practical software workflows
+└─ based in          Türkiye
+</pre>
 
 ---
 
-### 🌱 What I'm Focusing On
+## About
 
-- Building a Wake-on-LAN based desktop app using Electron
-- Improving my UI/UX skills with real-world desktop projects
-- Writing cleaner, reusable and well-commented code for future collaboration
+I'm a Computer Engineering graduate who enjoys building functional and maintainable applications.
+
+Most of my recent work is around practical tools, internal systems, automation, and evaluation workflows. I like projects that are useful, understandable, and easy to improve over time.
+
+Outside of coding, I enjoy mathematics, chess, and writing fictional stories.
 
 ---
 
-### 📫 Contact
+## Tech Stack
 
 <p>
-  <a href="https://www.linkedin.com/in/mucahit-agdin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-22272e?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/C%23-22272e?style=flat&logo=csharp" />
+  <img src="https://img.shields.io/badge/C++-22272e?style=flat&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-22272e?style=flat&logo=dotnet" />
+  <img src="https://img.shields.io/badge/FastAPI-22272e?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Electron-22272e?style=flat&logo=electron" />
+  <img src="https://img.shields.io/badge/Node.js-22272e?style=flat&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Docker-22272e?style=flat&logo=docker" />
+</p>
+
+---
+
+## Projects
+
+### UpDown
+
+A desktop application for discovering, managing, and remotely controlling devices over a local network.
+
+### Inventory Management System
+
+A local inventory and stock tracking system designed for a factory environment, with barcode-based product tracking.
+
+### Ticket Automation System
+
+A desktop application for recording, tracking, and managing IT support requests.
+
+---
+
+## Contact
+
+<p>
+  <a href="https://linkedin.com/in/mucahit-agdin/">
+    <img src="https://img.shields.io/badge/LinkedIn-22272e?style=flat&logo=linkedin" />
   </a>
   <a href="https://github.com/mucahitAgdin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-22272e?style=flat&logo=github" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mucahitAgdin&label=profile%20views&color=22272e&style=flat" />
+
+</div>
